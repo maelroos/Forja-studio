@@ -3,7 +3,7 @@
    ========================================================= */
 
 const STORE = {
-  whatsappNumber: "51951150378", // código país + número, sin + ni espacios
+  whatsappNumber: "51948204815", // código país + número, sin + ni espacios
   moneda: "S/",
 };
 
